@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="RadioButtonsTextSize">34sp</dimen>
+    <dimen name="marginToGameBar">130dp</dimen>
+    <dimen name="marginToVerticalBounds">40dp</dimen>
+    <dimen name="marginToHorizontalBounds">20dp</dimen>
+</resources>

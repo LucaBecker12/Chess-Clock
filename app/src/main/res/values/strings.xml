@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chess Clock</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="time_option_3_0">3 | 0</string>
+    <string name="time_option_3_2">3 | 2</string>
+    <string name="time_option_5_0">5 | 0</string>
+    <string name="button_save">Save</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2955796904006199/2252437980</string>
+</resources>
